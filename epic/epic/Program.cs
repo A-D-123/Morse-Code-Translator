@@ -65,15 +65,23 @@ namespace epic
                 if (ans != "1" && ans != "2") break;
                 
                 Console.WriteLine("Enter string");
-                String str = Console.ReadLine().ToLower();
+                String str = Console.ReadLine().ToLower().Trim();
 
                 if (ans == "1")
                 {
-                    foreach (char c in str)
+                    try
                     {
-                        Console.Write(morseCode[c] + " ");
+                        foreach (char c in str)
+                        {
+                            Console.Write(morseCode[c] + " ");
+                        }
+                        Console.WriteLine();
                     }
-                    Console.WriteLine();
+                    catch
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Can only encode a-z and 0-9");
+                    }
                 }
                 else
                 {
