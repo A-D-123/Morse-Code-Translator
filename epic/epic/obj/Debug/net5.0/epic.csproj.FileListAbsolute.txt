@@ -1,0 +1,15 @@
+C:\Users\alexd\source\repos\epic\epic\bin\Debug\net5.0\epic.exe
+C:\Users\alexd\source\repos\epic\epic\bin\Debug\net5.0\epic.deps.json
+C:\Users\alexd\source\repos\epic\epic\bin\Debug\net5.0\epic.runtimeconfig.json
+C:\Users\alexd\source\repos\epic\epic\bin\Debug\net5.0\epic.runtimeconfig.dev.json
+C:\Users\alexd\source\repos\epic\epic\bin\Debug\net5.0\epic.dll
+C:\Users\alexd\source\repos\epic\epic\bin\Debug\net5.0\epic.pdb
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\epic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\epic.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\epic.AssemblyInfo.cs
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\epic.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\epic.dll
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\refint\epic.dll
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\epic.pdb
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\epic.genruntimeconfig.cache
+C:\Users\alexd\source\repos\epic\epic\obj\Debug\net5.0\ref\epic.dll
