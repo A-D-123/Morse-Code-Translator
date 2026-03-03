@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 
 namespace epic
 {
@@ -59,11 +60,11 @@ namespace epic
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("Press 1 to encode press 2 to decode press any other button to exit");
-                String ans = Console.ReadLine();
+                Console.WriteLine("Press 1 to encode, press 2 to decode, press 3 to play through a morse code statement, press any other button to exit");
+                String ans = Console.ReadLine().Trim();
 
-                if (ans != "1" && ans != "2") break;
-                
+                if (!"123".Contains(ans)) break;
+
                 Console.WriteLine("Enter string");
                 String str = Console.ReadLine().ToLower().Trim();
 
@@ -83,7 +84,7 @@ namespace epic
                         Console.WriteLine("Can only encode a-z and 0-9");
                     }
                 }
-                else
+                else if (ans == "2")
                 {
                     try
                     {
@@ -108,6 +109,30 @@ namespace epic
                         Console.WriteLine("Please enter morse string in a format similar to this: \n" +
                             ".... . .-.. .-.. --- | .-- --- .-. .-.. -..");
                     }
+                }
+                else if(ans == "3")
+                {
+                    Thread.Sleep(100);
+                    foreach (char c in str)
+                    {
+                        switch (c)
+                        {
+                            case '.':
+                                Console.Beep(500, 500);
+                                Thread.Sleep(100);
+                                break;
+
+                            case '-':
+                                Console.Beep(500, 1000);
+                                Thread.Sleep(100);
+                                break;
+
+                            case '|': case ' ':
+                                Thread.Sleep(750);
+                                break;
+                        }
+                    }
+
                 }
                 Console.ReadKey();
             }
