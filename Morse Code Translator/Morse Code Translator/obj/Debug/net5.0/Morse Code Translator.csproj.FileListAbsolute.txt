@@ -1,0 +1,16 @@
+P:\Morse Code Translator\Morse Code Translator\bin\Debug\net5.0\Morse Code Translator.exe
+P:\Morse Code Translator\Morse Code Translator\bin\Debug\net5.0\Morse Code Translator.deps.json
+P:\Morse Code Translator\Morse Code Translator\bin\Debug\net5.0\Morse Code Translator.runtimeconfig.json
+P:\Morse Code Translator\Morse Code Translator\bin\Debug\net5.0\Morse Code Translator.runtimeconfig.dev.json
+P:\Morse Code Translator\Morse Code Translator\bin\Debug\net5.0\Morse Code Translator.dll
+P:\Morse Code Translator\Morse Code Translator\bin\Debug\net5.0\ref\Morse Code Translator.dll
+P:\Morse Code Translator\Morse Code Translator\bin\Debug\net5.0\Morse Code Translator.pdb
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.csproj.AssemblyReference.cache
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.AssemblyInfoInputs.cache
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.AssemblyInfo.cs
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.csproj.CoreCompileInputs.cache
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.dll
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\ref\Morse Code Translator.dll
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.pdb
+P:\Morse Code Translator\Morse Code Translator\obj\Debug\net5.0\Morse Code Translator.genruntimeconfig.cache
