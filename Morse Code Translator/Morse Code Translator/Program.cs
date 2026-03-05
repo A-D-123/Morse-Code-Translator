@@ -116,8 +116,7 @@ namespace epic
                             Thread.Sleep(100);
                             break;
 
-                        case '|':
-                        case ' ':
+                        case '|': case ' ':
                             Thread.Sleep(750);
                             break;
                     }
